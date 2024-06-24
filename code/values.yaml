@@ -1,3 +1,6 @@
+postgresql:
+  v1:
+    serviceAccountName: masd
 resources:
   requests:
     memory: 512Mi
