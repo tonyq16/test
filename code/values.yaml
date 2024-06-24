@@ -1,3 +1,2 @@
-postgresql:
-  v1:
-    serviceAccountName: masd
+serviceAccount: 
+  create: false
