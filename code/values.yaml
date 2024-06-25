@@ -1,2 +1,4 @@
-serviceAccount: 
-  create: false
+nextcloud:
+  extraEnv:
+  - name: REDIS_HOST
+    value: "safdava"
