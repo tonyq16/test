@@ -1,4 +1,4 @@
 nextcloud:
   extraEnv:
   - name: REDIS_HOST
-    value: "safdava"
+    value: "dssdfdsa"
